@@ -1,12 +1,24 @@
-# Tags: latest, 0.14.0-debian-10-r85, 0.14.0, 0-debian-10, 0
+# Tags: latest, 0.14.0-debian-10-r89, 0.14.0, 0-debian-10, 0
 FROM bitnami/chartmuseum:latest
-FROM bitnami/chartmuseum:0.14.0-debian-10-r85
+FROM bitnami/chartmuseum:0.14.0-debian-10-r89
 FROM bitnami/chartmuseum:0.14.0
 FROM bitnami/chartmuseum:0-debian-10
 FROM bitnami/chartmuseum:0
 
 # Tags: _
 FROM bitnami/chartmuseum:_
+
+# Tags: 0.14.0-debian-10-r88
+FROM bitnami/chartmuseum:0.14.0-debian-10-r88
+
+# Tags: 0.14.0-debian-10-r87
+FROM bitnami/chartmuseum:0.14.0-debian-10-r87
+
+# Tags: 0.14.0-debian-10-r86
+FROM bitnami/chartmuseum:0.14.0-debian-10-r86
+
+# Tags: 0.14.0-debian-10-r85
+FROM bitnami/chartmuseum:0.14.0-debian-10-r85
 
 # Tags: 0.14.0-debian-10-r84
 FROM bitnami/chartmuseum:0.14.0-debian-10-r84
@@ -82,15 +94,3 @@ FROM bitnami/chartmuseum:0.14.0-debian-10-r61
 
 # Tags: 0.14.0-debian-10-r60
 FROM bitnami/chartmuseum:0.14.0-debian-10-r60
-
-# Tags: 0.14.0-debian-10-r59
-FROM bitnami/chartmuseum:0.14.0-debian-10-r59
-
-# Tags: 0.14.0-debian-10-r58
-FROM bitnami/chartmuseum:0.14.0-debian-10-r58
-
-# Tags: 0.14.0-debian-10-r57
-FROM bitnami/chartmuseum:0.14.0-debian-10-r57
-
-# Tags: 0.14.0-debian-10-r56
-FROM bitnami/chartmuseum:0.14.0-debian-10-r56
