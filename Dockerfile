@@ -1,12 +1,42 @@
-# Tags: latest, 0.14.0-debian-10-r89, 0.14.0, 0-debian-10, 0
+# Tags: latest, 0.14.0-debian-10-r99, 0.14.0, 0-debian-10, 0
 FROM bitnami/chartmuseum:latest
-FROM bitnami/chartmuseum:0.14.0-debian-10-r89
+FROM bitnami/chartmuseum:0.14.0-debian-10-r99
 FROM bitnami/chartmuseum:0.14.0
 FROM bitnami/chartmuseum:0-debian-10
 FROM bitnami/chartmuseum:0
 
 # Tags: _
 FROM bitnami/chartmuseum:_
+
+# Tags: 0.14.0-debian-10-r98
+FROM bitnami/chartmuseum:0.14.0-debian-10-r98
+
+# Tags: 0.14.0-debian-10-r97
+FROM bitnami/chartmuseum:0.14.0-debian-10-r97
+
+# Tags: 0.14.0-debian-10-r96
+FROM bitnami/chartmuseum:0.14.0-debian-10-r96
+
+# Tags: 0.14.0-debian-10-r95
+FROM bitnami/chartmuseum:0.14.0-debian-10-r95
+
+# Tags: 0.14.0-debian-10-r94
+FROM bitnami/chartmuseum:0.14.0-debian-10-r94
+
+# Tags: 0.14.0-debian-10-r93
+FROM bitnami/chartmuseum:0.14.0-debian-10-r93
+
+# Tags: 0.14.0-debian-10-r92
+FROM bitnami/chartmuseum:0.14.0-debian-10-r92
+
+# Tags: 0.14.0-debian-10-r91
+FROM bitnami/chartmuseum:0.14.0-debian-10-r91
+
+# Tags: 0.14.0-debian-10-r90
+FROM bitnami/chartmuseum:0.14.0-debian-10-r90
+
+# Tags: 0.14.0-debian-10-r89
+FROM bitnami/chartmuseum:0.14.0-debian-10-r89
 
 # Tags: 0.14.0-debian-10-r88
 FROM bitnami/chartmuseum:0.14.0-debian-10-r88
@@ -64,33 +94,3 @@ FROM bitnami/chartmuseum:0.14.0-debian-10-r71
 
 # Tags: 0.14.0-debian-10-r70
 FROM bitnami/chartmuseum:0.14.0-debian-10-r70
-
-# Tags: 0.14.0-debian-10-r69
-FROM bitnami/chartmuseum:0.14.0-debian-10-r69
-
-# Tags: 0.14.0-debian-10-r68
-FROM bitnami/chartmuseum:0.14.0-debian-10-r68
-
-# Tags: 0.14.0-debian-10-r67
-FROM bitnami/chartmuseum:0.14.0-debian-10-r67
-
-# Tags: 0.14.0-debian-10-r66
-FROM bitnami/chartmuseum:0.14.0-debian-10-r66
-
-# Tags: 0.14.0-debian-10-r65
-FROM bitnami/chartmuseum:0.14.0-debian-10-r65
-
-# Tags: 0.14.0-debian-10-r64
-FROM bitnami/chartmuseum:0.14.0-debian-10-r64
-
-# Tags: 0.14.0-debian-10-r63
-FROM bitnami/chartmuseum:0.14.0-debian-10-r63
-
-# Tags: 0.14.0-debian-10-r62
-FROM bitnami/chartmuseum:0.14.0-debian-10-r62
-
-# Tags: 0.14.0-debian-10-r61
-FROM bitnami/chartmuseum:0.14.0-debian-10-r61
-
-# Tags: 0.14.0-debian-10-r60
-FROM bitnami/chartmuseum:0.14.0-debian-10-r60
